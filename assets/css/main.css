@@ -1156,6 +1156,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("https://i.ibb.co/zxgypN0/Pereny.jpg");
+			image-rendering: -webkit-optimize-contrast;
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;

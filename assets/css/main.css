@@ -1145,7 +1145,7 @@ input, select, textarea {
 			background-repeat: no-repeat, repeat;
 			z-index: 2;
 		}
-		
+
 		#bg:after {
 			-moz-transform: scale(1.125);
 			-webkit-transform: scale(1.125);
@@ -1155,8 +1155,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("https://i.ibb.co/zxgypN0/Pereny.jpg");
-			image-rendering: -webkit-optimize-contrast;
+			background-image: url("https://i.ibb.co/KywbdHg/dd5278f0-a9af-4ecc-ceaf-af4b32f97f71.png");
+			image-rendering: pixelated;
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
